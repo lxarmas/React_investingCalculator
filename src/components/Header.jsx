@@ -1,9 +1,9 @@
-import logo from '../assets/investment-calculator-logo.png';
+import logo from '../assets/money.jpg';
 export default function Header() {
     return (
         <header id='header'>
             <img src={logo} alt="logo money in a bag" />
-            <h1>Investing Calculator</h1>
+            <h1> Ale's Investing Money Machine</h1>
         </header>
     )
 }
